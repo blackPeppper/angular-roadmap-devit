@@ -4,108 +4,121 @@
 
 ![alt text](roadmap.jpg)
 
-# volume 1
+## Volume 1
 
-## Angular basics
+### Angular Basics
 
-- CLI - no time learn as yo go
-- project structure - no time learn as yo go
+- **CLI**: Learn as you go.
+- **Project Structure**: Learn as you go.
 
-### Components - 8h
+### Components - 8 hours
 
-- CLI gen component
-- single file component via template styles attr
-- MVC component
-- template - styles - serves
+- Generate components using CLI.
+- Understand single-file components via template, styles, and attributes.
+- Implement MVC pattern in components.
+- Master templates, styles, and services in components.
 
-### Data binding & Directives - 18h
+### Data Binding & Directives - 18 hours
 
-#### data binding
+#### Data Binding
 
-- interpolation
-- property
-- event binding
-- tow-way binding
+- Interpolation
+- Property binding
+- Event binding
+- Two-way binding
 
-#### directives
+#### Directives
 
-- structural directives - *ngIf -*ngFor
-- attribute directives - ngClass - ngStyles
+- Structural directives: `*ngIf`, `*ngFor`
+- Attribute directives: `ngClass`, `ngStyle`
 
-> review volume 2 for more details
+> Review Volume 2 for more details.
 
-### serves & dependency injection - 8h
+### Services & Dependency Injection - 8 hours
 
-- creating serves
-- injecting serves
-- hierarchical dependency injection
+- Creating services
+- Injecting services
+- Hierarchical dependency injection
 
-### routing - 12h
+### Routing - 12 hours
 
-- Angular Router
-- Configuring Routes
-- Route Parameters
-- Lazy Loading
+- Angular Router basics
+- Configuring routes
+- Route parameters
+- Lazy loading
 
-### Forms - 10h
+### Forms - 10 hours
 
 - **Reactive Forms**
-- Form Validation
-- Template-Driven Forms
+- Form validation
+- Template-driven forms
 
-### HTTP Client - 3h
+### HTTP Client - 3 hours
 
-- HttpClient Module
-- Making HTTP Requests
+- HttpClientModule
+- Making HTTP requests
 - Interceptors
 
-### Advanced Topics - 3h
+### Advanced Topics - 3 hours
 
-- Change Detection
+- Change detection
 - Pipes
 
-#### +4h volume 2
+#### +4 hours from Volume 2
 
-- Custom Directives
-- Custom Pipes
+- Custom directives
+- Custom pipes
 
 ### State Management
 
 - NgRx
-- Services For State Management
+- Services for state management
 
-## ui library 
+### UI Library
 
-- Angular Material - no time learn as yo go
+- Angular Material: Learn as you go.
 
-# volume 2
+## Volume 2
 
-## directives - 3h
+### Directives - 3 hours
 
-### Control Flow
+#### Control Flow
 
-- @if
-- @for
-- @else
-- @defer Deferrable Views
-- @placeholder
-- @loading
+- `@if`
+- `@for`
+- `@else`
+- `@defer` (Deferrable Views)
+- `@placeholder`
+- `@loading`
 
-## Optimizing images - 30mins
+### Optimizing Images - 30 minutes
 
 - NgOptimizedImage
-- [ngSrc]
+- `[ngSrc]`
 
-# volume 3
+### RxJS - 16 hours
 
-## Angular universal - 3h
-## testing - 20h
-- jest ( just learn the api )
-- vitest
+- Observables
+- Operators
+- Subjects
+- Best practices
+
+## Volume 3
+
+### Angular Universal - 3 hours
+
+- Server-side rendering (SSR)
+- Prerendering
+
+### Testing - 20 hours
+
+- Jest: Learn the API
+- Vitest
 - Angular testing integration
 
-## other modules
+### Other Modules
+
 - Angular animations
-- Angular Internationalization
-- Angular without ZoneJS (Zoneless)
-- Angular Signals
+- Angular internationalization
+- Angular without ZoneJS (zoneless)
+- Angular signals
