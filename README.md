@@ -45,6 +45,7 @@
 - Angular Router basics
 - Configuring routes
 - Route parameters
+- Route grades ( protected route )
 - Lazy loading
 
 ### Forms - 10 hours
@@ -69,7 +70,7 @@
 - Custom directives
 - Custom pipes
 
-### State Management
+### State Management - 4 hours
 
 - NgRx
 - Services for state management
