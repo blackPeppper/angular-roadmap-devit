@@ -78,6 +78,12 @@
 ### UI Library
 
 - Angular Material: Learn as you go.
+- PrimeNG: Learn as you go.
+- tailwind - 3 hours
+
+### assignment
+
+> under review
 
 ## Volume 2
 
@@ -110,6 +116,7 @@
 
 - Server-side rendering (SSR)
 - Prerendering
+- @angular/platform-browser
 
 ### Testing - 20 hours
 
