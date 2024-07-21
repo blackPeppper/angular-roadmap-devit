@@ -4,6 +4,9 @@
 
 ![alt text](roadmap.jpg)
 
+[angular vs react](https://component-party.dev/compare/angular-vs-react)
+
+
 ## Volume 1
 
 ### Angular Basics
